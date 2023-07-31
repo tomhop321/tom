@@ -15,7 +15,7 @@ app.set('views', './src/views')
 app.set('view engine', 'ejs')
 
 app.get('/xd', (req, res) => {
-    res.send("hello nodedddddddd")
+    res.send("hello nodeddjjjjjjjjjjjjjjjjjdddddd")
     console.log(4444)
 
 } )
