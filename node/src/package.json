@@ -1,0 +1,14 @@
+{
+  "name": "kurs_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "xdxd.js.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tom",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
