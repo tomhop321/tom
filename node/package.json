@@ -5,7 +5,7 @@
   "main": "xdxd.js",
   "scripts": {
     "start": "node xdxd.js",
-    "dev": "nodemon app.js",
+    "dev": "nodemon xdxd.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Raddy",
